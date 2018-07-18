@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyFCM</string>
+    <string name="subscribe_to_news">Subscribe to News</string>
+    <string name="log_token">Log Token</string>
+    <string name="default_notification_channel_id">Channel ID</string>
+    <string name="default_notification_channel_name">Channel Name</string>
+    <string name="msg_subscribed">Subscribed</string>
+    <string name="msg_token_fmt">Token_Format</string>
+</resources>
